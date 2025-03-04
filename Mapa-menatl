@@ -1,0 +1,26 @@
+==================================================
+REPOSITÓRIO DE ARTEFATOS DE PROJETO
+Sistema: Gestão de Equipamentos na Produção de Café
+==================================================
+
+📅 Data de Criação: 04/03/2025
+👥 Responsável: Product Owner - [Seu Nome]
+
+🔗 Ferramenta de Armazenamento: GitHub
+📂 Repositório: cafe-gestao-equipamentos
+
+Descrição:
+Este repositório tem como objetivo armazenar e gerenciar todos os artefatos relacionados ao desenvolvimento do sistema de gestão de equipamentos da produção de café. Os artefatos incluem requisitos, diagramas, manuais, casos de teste, códigos-fonte, atas de reunião e documentos de gestão.
+
+📑 Estrutura Inicial:
+- /documentacao
+- /codigo-fonte
+- /diagramas
+- /testes
+- /gestao
+
+Padrões:
+✔️ Todo artefato deve ser versionado e revisado.
+✔️ As alterações devem ser registradas por meio de commits descritivos.
+✔️ Documentos críticos passarão por revisão de pares.
+✔️ O histórico do quadro Kanban também será exportado para este repositório semanalmente.
