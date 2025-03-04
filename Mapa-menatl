@@ -1,6 +1,6 @@
-==================================================
-REPOSITÓRIO DE ARTEFATOS DE PROJETO
-Sistema: Gestão de Equipamentos na Produção de Café
+
+55629@Jaci MINGW32 /
+$ ^[[200~==================================================
 ==================================================
 
 📅 Data de Criação: 04/03/2025
@@ -11,6 +11,7 @@ Sistema: Gestão de Equipamentos na Produção de Café
 
 Descrição:
 Este repositório tem como objetivo armazenar e gerenciar todos os artefatos relacionados ao desenvolvimento do sistema de gestão de equipamentos da produção de café. Os artefatos incluem requisitos, diagramas, manuais, casos de teste, códigos-fonte, atas de reunião e documentos de gestão.
+bash: $'\E[200~==================================================': command not found
 
 📑 Estrutura Inicial:
 - /documentacao
@@ -24,3 +25,81 @@ Padrões:
 ✔️ As alterações devem ser registradas por meio de commits descritivos.
 ✔️ Documentos críticos passarão por revisão de pares.
 ✔️ O histórico do quadro Kanban também será exportado para este repositório semanalmente.
+55629@Jaci MINGW32 /
+$ REPOSITÓRIO DE ARTEFATOS DE PROJETO
+bash: REPOSITÓRIO: command not found
+
+55629@Jaci MINGW32 /
+$ Sistema: Gestão de Equipamentos na Produção de Café
+bash: Sistema:: command not found
+
+55629@Jaci MINGW32 /
+$ ==================================================
+bash: ==================================================: command not found
+
+55629@Jaci MINGW32 /
+$
+
+55629@Jaci MINGW32 /
+$ 📅 Data de Criação: 04/03/2025
+bash: $'\360\237\223\205': command not found
+
+55629@Jaci MINGW32 /
+$ 👥 Responsável: Product Owner - [Seu Nome]
+
+55629@Jaci MINGW32 /
+$
+
+55629@Jaci MINGW32 /
+$ 🔗 Ferramenta de Armazenamento: GitHub
+
+55629@Jaci MINGW32 /
+$ 📂 Repositório: cafe-gestao-equipamentos
+
+55629@Jaci MINGW32 /
+$
+
+55629@Jaci MINGW32 /
+$ Descrição:
+
+55629@Jaci MINGW32 /
+$ Este repositório tem como objetivo armazenar e gerenciar todos os artefatos relacionados ao desenvolvimento do sistema de gestão de equipamentos da produção de café. Os artefatos incluem requisitos, diagramas, manuais, casos de teste, códigos-fonte, atas de reunião e documentos de gestão.
+
+55629@Jaci MINGW32 /
+$
+
+55629@Jaci MINGW32 /
+$ 📑 Estrutura Inicial:
+
+55629@Jaci MINGW32 /
+$ - /documentacao
+
+55629@Jaci MINGW32 /
+$ - /codigo-fonte
+
+55629@Jaci MINGW32 /
+$ - /diagramas
+
+55629@Jaci MINGW32 /
+$ - /testes
+
+55629@Jaci MINGW32 /
+$ - /gestao
+55629@Jaci MINGW32 /
+$
+
+55629@Jaci MINGW32 /
+$ Padrões:
+
+55629@Jaci MINGW32 /
+$ ✔️ Todo artefato deve ser versionado e revisado.
+
+55629@Jaci MINGW32 /
+$ ✔️ As alterações devem ser registradas por meio de commits descritivos.
+
+55629@Jaci MINGW32 /
+$ ✔️ Documentos críticos passarão por revisão de pares.
+
+55629@Jaci MINGW32 /
+$ ✔️ O histórico do quadro Kanban também será exportado para este repositório semanalmente.
+
