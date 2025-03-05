@@ -1,0 +1,66 @@
+https://github.com/Jacics/Gerdeartefatos/tree/main
+
+Lista com sistemas e passos que estamos seguindo no projeto.
+-----------------------------------------------------------------------------
+Quadro Kankan para acompanhar o andamento do que já foi realizado no projeto:
+------------------------------------------------------------------------------
+link: https://trello.com/b/EkXZKCXi/kanban
+
+Backlog
+-Edição de Informações dos Equipamentos
+-Exclusão de equipamentos
+-Anexar documentos e fotos aos equipamentos
+-Alertas de manutenção preventiva
+-Painel de Alertas para Operador de Máquina
+-Cadastro de Equipamentos
+
+A Fazer
+-Implementar sistema de permissões de acesso
+-Criar estrutura do banco de dados para equipamentos
+-Desenvolver API para CRUD de equipamentos
+
+Em andamento
+-Desenvolvimento da interface de exibição da lista de equipamentos
+-Implementação da funcionalidade de anexar documentos e fotos
+-Criação dos alertas de manutenção preventiva
+
+Concluído
+-Visualização e filtragem de equipamentos cadastrados
+-Design da Interface com cores da Empresa
+-Criar interface para cadastro e edição de equipamentos
+-Definição de requisitos do módulo
+-Planejamento e priorização do backlog
+-Estrutura inicial do banco de dados criada
+-Reunião Inicial de Planejamento de projeto
+
+Em revisão
+-Testes unitários e integração do módulo
+-Revisão de código e ajustes finais
+
+Bloqueios
+-Atrasos
+------------------------------------------------------------------------------
+
+Diagrama Gestão de riscos
+
+link: https://www.mindomo.com/pt/mindmap/7aa97740acc44bda8fbdc6310ad982d9
+
+Falha na integração de dados da colheita para o sistema de secagem
+
+Método
+	Processos de integração mal documentados
+	Falha em validações de entrada
+Meio Ambiente
+	Condições climáticas
+	 Internet instável ou inexistente no campo
+Medida
+	Erro na calibração de sensores
+	 Inconsistências em unidades de medida
+Máquina 
+	Dispositivos móveis ou coletores de dados obsoletos
+Material 
+	Arquivos corrompidos no transporte de dados
+	Sensores de baixa qualidade
+Mão de Obra 
+	Falha de comunicação entre equipe de campo e equipe de TI
+	Erros de digitação ou preenchimento de dados
